@@ -36,6 +36,7 @@ From 2017 to 2018, there was a drastic change in the Annual Returns. In 2017, th
 ![2018 Stocks](https://github.com/alishalopez/stock-analysis/blob/0c32d1f8c2a0126f5ef8c18ddc081181c28189e7/resources/2018%20Stocks.png)
 
 Refactoring the code allows for the code to run much faster. With the original script I had created, it was taking over a second to run as compared to now at the fraction of the time. 
+
 ![VBA_Challenge_2017](https://github.com/alishalopez/stock-analysis/blob/0c32d1f8c2a0126f5ef8c18ddc081181c28189e7/resources/VBA_Challenge_2017.png)
 ![VBA_Challenge_2018](https://github.com/alishalopez/stock-analysis/blob/0c32d1f8c2a0126f5ef8c18ddc081181c28189e7/resources/VBA_Challenge_2018.png)
 
